@@ -1,0 +1,56 @@
+header{
+	width: 100%;
+	height: 1.4rem;
+	background-color: blue;
+	position: fixed;
+	top: 0;
+	left: 0;
+	/* padding: 0 .24rem; */
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+footer{
+	width: 100%;
+	height: 1rem;
+	/* background-color: blue; */
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+main{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 1.4rem;
+	bottom: 1rem;
+	background-color: #f0f0f1;
+	overflow-y: scroll;
+}
+.head-item1{
+	/* width: 100%; */
+	height: 1.4rem;
+	background-color: pink;
+
+
+}
+
+.banner{
+	width: 7.07rem;
+	height: 3.15rem;
+	background-color: blue;
+	position: absolute;
+	left: 0.24rem;
+	top: 0.5rem;
+
+}
+.neirong{
+	position: absolute;
+	top: 3.5rem;
+	left: 0.24rem;
+	right: 0.24rem;
+}
+
+
+
